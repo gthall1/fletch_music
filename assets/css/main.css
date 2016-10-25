@@ -2124,7 +2124,8 @@
 					display: block;
 					padding: 1em 0 0 0;
 					text-align: center;
-					width: 100%;
+					width: 60%;
+					margin: auto;
 				}
 
 					ul.actions li:first-child {
@@ -3412,12 +3413,12 @@
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			display: inline-block;
-			font-size: 2.75em;
+			font-size: 3.25em;
 			opacity: 1;
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
-			font-family: 'IM Fell Great Primer SC', serif;
+			font-family: 'IM Fell English', serif;
 		}
 
 			#banner h2:before, #banner h2:after {
@@ -3535,7 +3536,8 @@
 			}
 
 				#banner h2 {
-					font-size: 1.25em;
+					font-size: 2.25em;
+					margin-left: -.3em;
 				}
 
 				#banner br {
@@ -3636,10 +3638,10 @@
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("../../images/fletch_music.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("../../images/fletch_music.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("../../images/fletch_music.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("../../images/fletch_music.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3807,10 +3809,10 @@
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/fletch_music.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../../images/fletch_music.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../../images/fletch_music.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../../images/fletch_music.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("../../images/fletch_music.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
