@@ -25,19 +25,19 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">Fletch Music</a></h1>
+						<h1><a href="/">Fletch Music</a></h1>
 						<nav id="nav">
 							<ul>
 								<li class="special">
 									<a href="#menu" class="menuToggle"><span>Menu</span></a>
 									<div id="menu">
 										<ul>
-											<li><a href="home.html">Home</a></li>
-											<li><a href="#one">Bio</a></li>
-											<li><a href="#two">New Music</a></li>
-											<li><a href="#three">In The Past</a></li>
+											<li><a href="/">Home</a></li>
+											<li><a href="/#one">Bio</a></li>
+											<li><a href="/#two">New Music</a></li>
+											<li><a href="/#three">In The Past</a></li>
 											<li>Merchandise Coming Soon*</li>
-											<li><a href="#cta">Contact</a></li>
+											<li><a href="/#cta">Contact</a></li>
 										</ul>
 									</div>
 								</li>
@@ -74,22 +74,32 @@
 
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
-						<h2 style="text-align: center; padding-top: 2.5em; padding-bottom: 2em;">New Music: The Rebuild</h2>
+						<h2 style="text-align: center; padding-top: 2.5em; padding-bottom: 2em;">New Music</h2>
 
 						<section>
-              <div class="box alt">
-                <div class="row uniform 50%">
-                	<div class="2u"></div>
-                	<div class="8u 12u$(small)">
-                		<span class="image fit">
-                			<iframe width="100%" height="450" scrolling="no" style="padding-bottom: 3em;" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315405987&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-                		</span>
-                	</div>
-                </div>
-              </div>
-            </section>
+			              <div class="box">
+			                <div class="row uniform 50%">
+			                	<!-- <div class="2u"></div> -->
+			                	<div class="4u 12u$(small)">
+			                		<span class="image fit">
+			                			<iframe width="100%" height="450" scrolling="no" style="padding-bottom: 3em;" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327281481&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+			                		</span>
+			                	</div>
+			                	<div class="4u 12u$(small)">
+			                		<span class="image fit">
+			                			<iframe width="100%" height="450" scrolling="no" style="padding-bottom: 3em;" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321090136&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+			                		</span>
+			                	</div>
+			                	<div class="4u$ 12u$(small)">
+			                		<span class="image fit">
+			                			<iframe width="100%" height="450" scrolling="no" style="padding-bottom: 3em;" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315405987&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+			                		</span>
+			                	</div>
+			                </div>
+			              </div>
+			            </section>
 
-						<section>
+					<section>
               <div class="box alt">
                 <div class="row uniform 50%">
 
@@ -127,6 +137,38 @@
 
                   <div class="3u">
                     <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_13.jpg" alt="" />
+                        <img src="images/rebuild_13.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_14.jpg" alt="" />
+                        <img src="images/rebuild_14.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_15.jpg" alt="" />
+                        <img src="images/rebuild_15.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u$">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_16.jpg" alt="" />
+                        <img src="images/rebuild_16.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u">
+                    <span class="image fit">
                       <a class="image-link" href="images/rebuild_big_5.jpg" alt="" />
                         <img src="images/rebuild_5.jpg" alt="" />
                       </a>
@@ -153,6 +195,38 @@
                     <span class="image fit">
                       <a class="image-link" href="images/rebuild_big_8.jpg" alt="" />
                         <img src="images/rebuild_8.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_17.jpg" alt="" />
+                        <img src="images/rebuild_17.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_18.jpg" alt="" />
+                        <img src="images/rebuild_18.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_19.jpg" alt="" />
+                        <img src="images/rebuild_19.jpg" alt="" />
+                      </a>
+                    </span>
+                  </div>
+
+                  <div class="3u$">
+                    <span class="image fit">
+                      <a class="image-link" href="images/rebuild_big_20.jpg" alt="" />
+                        <img src="images/rebuild_20.jpg" alt="" />
                       </a>
                     </span>
                   </div>
@@ -238,6 +312,7 @@
 
 								</li>
 
+								<!--
 								<li class="icon fa-headphones">
 									<div class="12u"><span class="image fit"><iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258054441&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></span></div>
 									<h3>Johnny Football</h3>
@@ -266,7 +341,7 @@
 									<div class="12u"><span class="image fit"><iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279880383&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></span></div>
 									<h3>Hype (remix)</h3>
 									<h4>Repod. by Bandit Luce</h4>
-								</li>
+								</li>  -->
 
 							</ul>
 							<ul class="actions">

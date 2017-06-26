@@ -1857,7 +1857,7 @@
 
 	.box {
 		border-radius: 3px;
-		border: solid 2px #fff;
+		/* border: solid 2px #fff;  */
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
