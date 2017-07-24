@@ -356,7 +356,7 @@
 							<header style="margin: auto; text-align: center;">
 								<h2>Contact</h2>
 								<p><span class="fletch_orange">Contact</span> // fletchbangarang@gmail.com</p>
-								<p><span class="fletch_orange">Booking</span> // info@ericowes.com</p>
+								<!--  <p><span class="fletch_orange">Booking</span> // info@ericowes.com</p>  -->
 							</header>
 							<!-- <ul class="actions vertical">
 								<li><a href="#" class="button fit special">Activate</a></li>
